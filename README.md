@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a web application that integrates an AI chat interface with advanced search capabilities and streaming text generation. The application utilizes various technologies including Django, Flask, OpenAI, Hugging Face, and ChromaDB to deliver an interactive and dynamic user experience.
+This project is a web application that integrates an AI chat interface with advanced search capabilities and streaming text generation. The application utilizes various technologies including Django, Hugging Face, and FAISSDB to deliver an interactive and dynamic user experience.
 
 ## Features
 
